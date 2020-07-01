@@ -1,11 +1,6 @@
-# Title: Summary, imperative, start upper case, don't end with a period
 # No more than 50 chars. #### 50 chars is here: #
 
-# Remember blank line between title and body.
-
-# See links to relevant web pages, issue trackers, blog articles, etc.
-# See: https://example.com/
-# See: [Example Page](https://example.com/)
+#################################################
 
 # List all co-authors, so version control systems can connect teams.
 # Co-authored-by: Name <name@example.com>
@@ -13,11 +8,11 @@
 
 # Body: Explain *what* and *why* (not *how*).
 # Wrap at 72 chars. ################################## which is here: #
-
 # Why:
 
-# This change addresses the need by:
+# What:
 
+#######################################################################
 # FOR REFERENCE
 #
 # How to Write a Git Commit Message:
@@ -45,4 +40,3 @@
 #     Refactor = A change that MUST be just refactoring.
 #     Reformat = A change that MUST be just format, e.g. indent line, trim space, etc.
 #     Rephrase = A change that MUST be just textual, e.g. edit a comment, doc, etc.
-
