@@ -1,16 +1,11 @@
 # No more than 50 chars. #### 50 chars is here: #
 
 #################################################
-
 # List all co-authors, so version control systems can connect teams.
 # Co-authored-by: Name <name@example.com>
 # Co-authored-by: Name <name@example.com>
 
-# Body: Explain *what* and *why* (not *how*).
 # Wrap at 72 chars. ################################## which is here: #
-# Why:
-
-# What:
 
 #######################################################################
 # FOR REFERENCE
